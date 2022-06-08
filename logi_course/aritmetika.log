@@ -1,0 +1,19 @@
+DEBUG:root:Dalyba: 10 / 5 = 2.0
+INFO:root:Dalyba: 10 / 5 = 2.0
+DEBUG:root:Dalyba: 10 / 5 = 2.0
+2022-06-08 19:45:12,426:INFO:Dalyba: 10 / 5 = 2.0
+2022-06-08 19:45:12,427:DEBUG:Dalyba: 10 / 5 = 2.0
+DEBUG:root:suma: <function sum at 0x000001D18F53EC20>
+DEBUG:root:suma: <function sum at 0x000001D18F53EC20>
+DEBUG:root:suma: <function sum at 0x000001D18F53EC20>
+DEBUG:root:suma: <function sum at 0x00000272F9DDEC20>
+DEBUG:root:suma: 13
+DEBUG:root:suma: 13
+INFO:root:suma: 13
+2022-06-08 21:44:42,866:INFO:root:suma: 13
+2022-06-08 21:46:12,720:INFO:suma: 13
+2022-06-08 21:48:03,998:INFO:suma: 13
+2022-06-08 21:48:04,001:INFO:square root: 3.0
+2022-06-08 21:49:34,318:INFO:suma: 13
+2022-06-08 21:49:34,318:INFO:square root: 3.0
+2022-06-08 21:49:34,318:INFO:lenght of sentence: 9
